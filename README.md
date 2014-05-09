@@ -1,4 +1,4 @@
-# Easy Node Authentication
+# Waka Authentication
 
 
 ## Instructions
